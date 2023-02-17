@@ -1,0 +1,6 @@
+{
+    "presets": [
+        "@babel/preset-env", //Nos ayudaran a compilar todo tipo de javascript ecma scrpt 6 y 7 
+        "@babel/preset-react"
+    ]
+}
